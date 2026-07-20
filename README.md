@@ -9,6 +9,6 @@ I'm a passionate self-taught MERN Stack developer from Pakistan who enjoys build
 * Backend: Node.js, Express.js
 * Database: MongoDB
 * GSAP
+* Tools: Git, GitHub, VS Code, Postman
 
 ![Hunter-Wajahat's Contribution Streak](https://github-stats-analyzer-gamma.vercel.app/api/card/streak?username=Hunter-Wajahat&theme=dark)
-* Tools: Git, GitHub, VS Code, Postman
