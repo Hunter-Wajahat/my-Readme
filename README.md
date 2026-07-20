@@ -14,7 +14,7 @@ I'm a passionate self-taught MERN Stack developer from Pakistan who enjoys build
 # My Streak🔥
 ![Hunter-Wajahat's Contribution Streak](https://github-stats-analyzer-gamma.vercel.app/api/card/streak?username=Hunter-Wajahat&theme=dark)
 
-## Mathematic numbers don't lie, aye!
+## Mathematic numbers don't lie bro aye!
 ![Hunter-Wajahat's GitHub Stats](https://github-stats-analyzer-gamma.vercel.app/api/card/stats?username=Hunter-Wajahat&theme=dark)
 
 # Badges
