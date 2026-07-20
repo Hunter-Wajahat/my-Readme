@@ -8,4 +8,5 @@ I'm a passionate self-taught MERN Stack developer from Pakistan who enjoys build
 * Frontend: HTML, CSS, JavaScript, React
 * Backend: Node.js, Express.js
 * Database: MongoDB
+* GSAP
 * Tools: Git, GitHub, VS Code, Postman
